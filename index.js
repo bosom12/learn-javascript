@@ -8,5 +8,5 @@ const subtract = (a, b) => {
  return a - b;
 }
 
-console.log(subtract(7, 12));
+console.log(subtract(12, 6));
 
